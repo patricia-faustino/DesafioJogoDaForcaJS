@@ -1,0 +1,12 @@
+.dvdisplay{
+    margin: 20px 0;
+}
+.palavras{
+    display: flex;
+    width: 204px;
+    flex-wrap: wrap;
+}
+
+.letra{
+  width: 60px;  
+}
